@@ -70,4 +70,6 @@ accuracy                           0.80       179
   jupyter notebook titanic_notebook.ipynb
   ```
 
-
+- **Kaggle Competition Score:** 0.78
+- **Public Leaderboard Score:** Top 18%
+![Kaggle Score](Kaggle_compatition_score.png)
